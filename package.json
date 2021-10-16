@@ -1,0 +1,27 @@
+{
+  "name": "core-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Utils.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheGroupC/core-utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheGroupC/core-utils/issues"
+  },
+  "homepage": "https://github.com/TheGroupC/core-utils#readme",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "lodash": "^4.17.21",
+    "prettier": "^2.4.1"
+  },
+  "devDependencies": {
+    "jest": "^27.2.5"
+  }
+}

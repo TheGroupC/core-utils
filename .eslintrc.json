@@ -1,0 +1,25 @@
+{
+  "env": {
+    "browser": true,
+    "commonjs": true,
+    "es2021": true
+  },
+  "extends": ["eslint:recommended", "airbnb", "prettier", "plugin:jest/all"],
+  "parserOptions": {
+    "ecmaVersion": 12
+  },
+  "rules": {
+    "no-underscore-dangle": "off",
+    "class-methods-use-this": "off",
+    "no-console": "off",
+    "jest/no-hooks": "off",
+    "jest/no-test-return-statement": "off",
+    "jest/prefer-strict-equal": "off",
+    "consistent-return": "off",
+    "array-callback-return": "off",
+    "no-param-reassign": "off",
+    "no-restricted-syntax": "off",
+    "prefer-destructuring": "off",
+    "no-case-declarations": "off"
+  }
+}
