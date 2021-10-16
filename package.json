@@ -1,7 +1,7 @@
 {
   "name": "core-utils",
   "version": "1.0.0",
-  "description": "",
+  "description": "Utilities for working with some Core features",
   "main": "Utils.js",
   "scripts": {
     "test": "jest --coverage"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/TheGroupC/core-utils.git"
   },
-  "author": "",
+  "author": "Ken Sawyerr",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/TheGroupC/core-utils/issues"
