@@ -1,5 +1,5 @@
 {
-  "name": "core-utils",
+  "name": "groupcore-utils",
   "version": "1.0.0",
   "description": "Utilities for working with some Core features",
   "main": "Utils.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheGroupC/core-utils.git"
+    "url": "git+https://github.com/TheGroupC/groupcore-utils.git"
   },
   "author": "Ken Sawyerr",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TheGroupC/core-utils/issues"
+    "url": "https://github.com/TheGroupC/groupcore-utils/issues"
   },
-  "homepage": "https://github.com/TheGroupC/core-utils#readme",
+  "homepage": "https://github.com/TheGroupC/groupcore-utils#readme",
   "dependencies": {
     "axios": "^0.23.0",
     "lodash": "^4.17.21",
