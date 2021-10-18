@@ -46,7 +46,7 @@ class Utils {
 
     return axios({
       method: 'POST',
-      url: `${this.apiUrl}/mail`,
+      url: `${this.apiUrl}/com/mail`,
       data: {
         project: this.project,
         email: recipientEmail,
